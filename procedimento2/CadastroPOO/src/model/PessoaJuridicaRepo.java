@@ -33,7 +33,7 @@ public class PessoaJuridicaRepo{
         return null;
     }
     
-    public ArrayList<PessoaJuridica> obterToddos(){
+    public ArrayList<PessoaJuridica> obterTodos(){
         return this.pessoasJuridicas;
     }
     
